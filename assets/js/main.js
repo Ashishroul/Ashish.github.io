@@ -41,7 +41,7 @@ function togglesSkills() {
         skillsContent[i].className = "skills__content skills__close";
     }
     if (itemClass === "skills__content skills__close") {
-        this.parentNode.className = "skills__content skills__open";https://drive.google.com/file/d/1ukv6bXvr-IM1v6Qzfs7nYnVbC8UGFFca/view?usp=drive_link
+        this.parentNode.className = "skills__content skills__open";
     }
 }
 
